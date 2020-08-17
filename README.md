@@ -9,5 +9,6 @@
 ##
 [week32 - Benefits of remote work (Tableau)](https://sivnisky.github.io//infovis/BenefitsOfRemoteWorkTableau.html)
 ##
-[week33 - Companies in Scotland (Tableau)](
+[week33 - Companies in Scotland MAP (Tableau)](https://sivnisky.github.io//infovis/CompaniesScotlandMap(Tableau).html)
 ##
+[week33 - Companies in Scotland BUBBLES (Tableau)](https://sivnisky.github.io//infovis/CompaniesInScotlandBubble(Tableau).html)
