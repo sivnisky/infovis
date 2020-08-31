@@ -15,5 +15,5 @@
 ##
 [week34 - Sexual and Reproductive Health and Rights AM & C (Tableau)](https://sivnisky.github.io/infovis/MOMW34.html)
 ##
-[week35 - (Tableau)](https://sivnisky.github.io/infovis/MOMW35.html)
+[week35 - Batting averages and dismissals per player (Tableau)](https://sivnisky.github.io/infovis/MOMW35.html)
 
