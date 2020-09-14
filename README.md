@@ -17,5 +17,5 @@
 ##
 [week35 - Batting averages and dismissals per player (Tableau)](https://sivnisky.github.io/infovis/MOMW35.html)
 ##
-[Timeline - sin terminar]https://sivnisky.github.io//infovis/Timeline.html
+[Timeline - sin terminar](https://sivnisky.github.io//infovis/Timeline.html)
 
