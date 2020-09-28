@@ -19,4 +19,6 @@
 ##
 [Timeline - sin terminar](https://sivnisky.github.io//infovis/Timeline.html)
 ##
-[Trabajo Práctico Datos Personales](https://sivnisky.github.io/infovis/TPinfovis.html) 
+[Trabajo Práctico Datos Personales](https://sivnisky.github.io/infovis/TPinfovis.html)
+##
+[Trabajo Práctico Datos Personales - Imagen](https://sivnisky.github.io/infovis/ImageTP.html)
